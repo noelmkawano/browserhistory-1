@@ -2,10 +2,6 @@ body {
   padding-top: 70px;  /* Move body of page below navbar. */
 }
 
-.page-content {
-  padding: 10px;
-  text-align: center;
-}
 
 img {
   float: left;
